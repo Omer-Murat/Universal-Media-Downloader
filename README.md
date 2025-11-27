@@ -44,7 +44,7 @@ Uygulamanın video birleştirme ve ses dönüştürme yapabilmesi için ffmpeg.e
 
 ffmpeg.exe dosyasını indirin ve projenin ana klasörüne (Universal-Media-Downloader.py yanına) atın.
 
-*▶️ Kullanım
+▶️ Kullanım
 
 Uygulamayı başlatın:
 ```bash
