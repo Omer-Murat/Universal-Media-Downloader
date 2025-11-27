@@ -1,3 +1,5 @@
+![Logo](logo.png)
+
 ⚡ UniMedia - Universal Media Downloader
 
 UniMedia, modern arayüzü ve güçlü altyapısı ile internet üzerindeki video ve ses dosyalarını indirmeyi sağlayan profesyonel bir masaüstü uygulamasıdır.
@@ -5,8 +7,6 @@ UniMedia, modern arayüzü ve güçlü altyapısı ile internet üzerindeki vide
 🚀 Özellikler
 
 Evrensel Destek: YouTube, Instagram, TikTok, Twitter (X) ve daha fazlası.
-
-![Logo](logo.png)
 
 Format Seçenekleri:
 
