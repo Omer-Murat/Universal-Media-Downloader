@@ -33,8 +33,8 @@ Projeyi bilgisayarınızda çalıştırmak veya geliştirmek için:
 Repoyu Klonlayın:
 ``` bash
 # Windows (PowerShell)
-git clone [https://github.com/Omer-Murat/Universal-Media-Downloader.git](https://github.com/Omer-Murat/Universal-Media-Downloader.git)
-cd REPO_ADIN
+git clone https://github.com/Omer-Murat/Universal-Media-Downloader.git
+cd Universal-Media-Downloader
 ```
 
 Gerekli Kütüphaneleri Kurun:
